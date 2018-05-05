@@ -1,3 +1,7 @@
+# THIS PROJECT HAS MOVED
+
+**This project has been merged into the larger "Jessie" repository. You can find it at https://github.com/scy/jessie**
+
 # Mr. Homn
 
 This is the software running on [Jessie](https://github.com/scy/jessie)’s Arduino Mega controlling switches and relays.
